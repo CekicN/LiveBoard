@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|c:\\users\\milan\\desktop\\net\\liveboard\\liveboardapi\\liveboardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|solutionrelative:liveboardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|c:\\users\\milan\\desktop\\net\\liveboard\\liveboardapi\\liveboardapi\\models\\dtos\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|solutionrelative:liveboardapi\\models\\dtos\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|c:\\users\\milan\\desktop\\net\\liveboard\\liveboardapi\\liveboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|solutionrelative:liveboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|c:\\users\\milan\\desktop\\net\\liveboard\\liveboardapi\\liveboardapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|solutionrelative:liveboardapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|c:\\users\\milan\\desktop\\net\\liveboard\\liveboardapi\\liveboardapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0125AD9B-C5BA-4540-9CEE-EBCC9B04003C}|LiveBoardAPI\\LiveBoardAPI.csproj|solutionrelative:liveboardapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Models\\DTOs\\TokenModel.cs",
+              "RelativeDocumentMoniker": "LiveBoardAPI\\Models\\DTOs\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Models\\DTOs\\TokenModel.cs",
+              "RelativeToolTip": "LiveBoardAPI\\Models\\DTOs\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:04:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "LiveBoardAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "LiveBoardAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:58:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "LiveBoardAPI\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Services\\ITokenService.cs",
+              "RelativeToolTip": "LiveBoardAPI\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:55:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LiveBoardAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LiveBoardAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAQwNgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:52:04.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LiveBoardAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Program.cs",
+              "RelativeToolTip": "LiveBoardAPI\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:39:25.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
