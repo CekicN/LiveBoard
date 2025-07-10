@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LiveBoardAPI
 {
-    public class LiveBoardDbContext : IdentityDbContext<User>
+    public class LiveBoardDbContext : IdentityDbContext<Models.User>
     {
 
         public LiveBoardDbContext(DbContextOptions<LiveBoardDbContext> options) : base(options)

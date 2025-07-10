@@ -14,12 +14,12 @@ namespace LiveBoardAPI.Data
 
             try
             {
-                var userManager = scope.ServiceProvider.GetService<UserManager<User>>();
+                var userManager = scope.ServiceProvider.GetService<UserManager<Models.User>>();
                 var roleManager = scope.ServiceProvider.GetService<RoleManager<IdentityRole>>();
 
                 if (userManager.Users.Any() == false)
                 {
-                    var user = new User
+                    var user = new Models.User
                     {
                         Name = "Admin",
                         UserName = "admin@gmail.com",
