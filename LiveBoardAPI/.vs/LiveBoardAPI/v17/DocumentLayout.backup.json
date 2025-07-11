@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LiveBoardAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LiveBoardAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:52:04.781Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +55,7 @@
               "RelativeToolTip": "LiveBoardAPI\\Models\\DTOs\\TokenModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T21:04:03.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T21:04:03.66Z"
             },
             {
               "$type": "Document",
@@ -55,8 +67,7 @@
               "RelativeToolTip": "LiveBoardAPI\\Services\\TokenService.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAmwEoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T20:58:12.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T20:58:12.688Z"
             },
             {
               "$type": "Document",
@@ -68,21 +79,7 @@
               "RelativeToolTip": "LiveBoardAPI\\Services\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T20:55:23.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "LiveBoardAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\Net\\LiveBoard\\LiveBoardAPI\\LiveBoardAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "LiveBoardAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAQwNgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T20:52:04.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T20:55:23.195Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "LiveBoardAPI\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T19:39:25.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T19:39:25.545Z"
             }
           ]
         }

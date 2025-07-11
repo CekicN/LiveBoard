@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace LiveBoardAPI.User.Commands.RevokeTokenCommand
+namespace LiveBoardAPI.Commands.RevokeTokenCommand
 {
     public class RevokeTokenHandler : IRequestHandler<RevokeTokenCommand, IActionResult>
     {

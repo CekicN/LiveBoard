@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiveBoardAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80c87e4094b29d187897d4a06b49eeedb16a7f3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3941dacac8bb2823c09f89d3ded83b4c423caec5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiveBoardAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiveBoardAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

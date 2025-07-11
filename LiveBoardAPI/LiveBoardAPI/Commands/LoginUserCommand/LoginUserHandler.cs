@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 using System.IdentityModel.Tokens.Jwt;
 
-namespace LiveBoardAPI.User.Queries.LoginUserQuery
+namespace LiveBoardAPI.Commands.LoginUserQuery
 {
-    public class LoginUserHandler : IRequestHandler<LoginUserQuery, IActionResult>
+    public class LoginUserHandler : IRequestHandler<LoginUserCommand, IActionResult>
     {
         private readonly LiveBoardDbContext _context;
         private readonly UserManager<Models.User> _userManager;
@@ -25,7 +25,7 @@ namespace LiveBoardAPI.User.Queries.LoginUserQuery
             _logger = logger;
         }
 
-        public async Task<IActionResult> Handle(LoginUserQuery request, CancellationToken cancellationToken)
+        public async Task<IActionResult> Handle(LoginUserCommand request, CancellationToken cancellationToken)
         {
             try
             {

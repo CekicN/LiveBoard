@@ -2,7 +2,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LiveBoardAPI.User.Commands.RefreshTokenCommand
+namespace LiveBoardAPI.Commands.RefreshTokenCommand
 {
     public record RefreshTokenCommand(TokenModel TokenModel) : IRequest<IActionResult>;
 }

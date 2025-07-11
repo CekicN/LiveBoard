@@ -1,19 +1,11 @@
-﻿using LiveBoardAPI.Constants;
-using LiveBoardAPI.Models;
+﻿using LiveBoardAPI.Commands.LoginUserQuery;
+using LiveBoardAPI.Commands.RefreshTokenCommand;
+using LiveBoardAPI.Commands.RegisterUserCommand;
+using LiveBoardAPI.Commands.RevokeTokenCommand;
 using LiveBoardAPI.Models.DTOs;
-using LiveBoardAPI.Services;
-using LiveBoardAPI.User.Commands.RefreshTokenCommand;
-using LiveBoardAPI.User.Commands.RegisterUserCommand;
-using LiveBoardAPI.User.Commands.RevokeTokenCommand;
-using LiveBoardAPI.User.Queries.LoginUserQuery;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
 
 namespace LiveBoardAPI.Controllers
 {
@@ -36,7 +28,7 @@ namespace LiveBoardAPI.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login(LoginModel model)
         {
-            return await _mediator.Send(new LoginUserQuery(model));
+            return await _mediator.Send(new LoginUserCommand(model));
         }
 
         [HttpPost("token/refresh")]

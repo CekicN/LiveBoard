@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LiveBoardAPI.User.Commands.RevokeTokenCommand
+namespace LiveBoardAPI.Commands.RevokeTokenCommand
 {
     public record RevokeTokenCommand() : IRequest<IActionResult>;
 }

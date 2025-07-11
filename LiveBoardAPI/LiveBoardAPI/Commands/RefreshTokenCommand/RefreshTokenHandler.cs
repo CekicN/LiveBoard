@@ -3,7 +3,7 @@ using LiveBoardAPI.Services;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LiveBoardAPI.User.Commands.RefreshTokenCommand
+namespace LiveBoardAPI.Commands.RefreshTokenCommand
 {
     public class RefreshTokenHandler : IRequestHandler<RefreshTokenCommand, IActionResult>
     {

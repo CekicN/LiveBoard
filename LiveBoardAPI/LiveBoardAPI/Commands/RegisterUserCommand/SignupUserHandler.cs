@@ -5,7 +5,7 @@ using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LiveBoardAPI.User.Commands.RegisterUserCommand
+namespace LiveBoardAPI.Commands.RegisterUserCommand
 {
     public class SignupUserHandler : IRequestHandler<SignupUserCommand, IActionResult>
     {
